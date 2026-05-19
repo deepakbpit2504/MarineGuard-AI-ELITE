@@ -1,0 +1,11 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: fish
+  1: shark
+  2: turtle
+  3: jellyfish
+  4: coral
